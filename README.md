@@ -38,4 +38,4 @@ real-world data and AI projects.
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/Bharath H M
+GitHub: https://github.com/Bharath-H-M
